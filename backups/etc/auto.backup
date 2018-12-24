@@ -1,0 +1,3 @@
+
+nfs	-rw,soft,intr,rsize=8192,wsize=8192	ftpback-rbx2-20.ovh.net:/export/ftpbackup/ns3053731.ip-137-74-1.eu
+
